@@ -1,0 +1,27 @@
+/* #black-box a{
+	margin-left: 77px;
+	float: none;
+} */
+
+/* #black-box a{
+	position: relative;
+	right: 0;
+	top: -15px;
+} */
+
+
+
+#content{
+	/*padding-top: 30px;*/
+	padding: 30px 58px 35px 10px;
+}
+
+.post:first-child{
+	/*padding-top: 30px;*/
+	margin-top: 0;
+
+}
+
+/*<!--[if IE 7]>
+		<link href="css/ie7.css" type="text/css" rel="stylesheet" />
+		<![endif]-->*/
